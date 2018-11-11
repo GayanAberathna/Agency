@@ -17,8 +17,8 @@
 			{
 				type_point: 'Museum',
 				name: 'Louvre Museum',
-				location_latitude: 48.865633, 
-				location_longitude: 2.321236,
+				location_latitude: 7.93965, 
+				location_longitude: 81.00274,
 				map_image_url: 'img/thumb_map_single_tour.jpg',
 				rate: 'Superb | 7.5',
 				name_point: 'Louvre Museum',
