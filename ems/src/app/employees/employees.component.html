@@ -1,0 +1,49 @@
+
+<div class="container">
+  <div class="row" style="margin-top:12px;">
+    <div class="col-md-8">
+      <input type="text"
+             [(ngModel)]="searchText"
+             (change)="getEmployeeByID()"
+             class="form-control"
+             style="width: 100%;"
+             placeholder="Search By Employee ID...">
+    </div>
+    <div class="col-md-4">
+      <button type="button"
+              (click)="createNote(selectedNotebook.id)"
+              class="btn btn-warning pull-right"
+              style="margin-left:12px;"><i class="fa fa-plus"></i> New Employee
+      </button>
+    </div>
+
+  </div>
+
+
+  <div class="row" style="margin-top: 28px;">
+
+    <div class="col-md-9">
+      <div class="row">
+        <div class="col-md-12">
+
+          <p *ngIf="this.emplyees.length === 0">{{noEmployee}}</p>
+        </div>
+      </div>
+      <div class="row">
+         {{emplyeeHeader}}
+        <a *ngFor="let employee of emplyees" class="list-group-item list-group-item-action">
+          <i class="fa fa-user"></i>&nbsp;<br/>
+          <input [(ngModel)]="employee.id" (change)="updateEmployee(employee)" type="text" class="input-label" style="width: 80%"/>
+          <input [(ngModel)]="employee.firstName" (change)="updateEmployee(employee)" type="text" class="input-label" style="width: 80%"/>
+          <input [(ngModel)]="employee.lastName" (change)="updateEmployee(employee)" type="text" class="input-label" style="width: 80%"/>
+          <input [(ngModel)]="employee.birthDay" (change)="updateEmployee(employee)" type="Date" class="input-label" style="width: 80%"/>
+          <input [(ngModel)]="employee.address" (change)="updateEmployee(employee)" type="text" class="input-label" style="width: 80%"/>
+
+          <a (click)="deleteEmployee(employee)" class="pull-right text-danger">
+            <i class="fa fa-trash-o"></i>
+          </a>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

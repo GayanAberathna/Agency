@@ -12,6 +12,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping(method = RequestMethod.POST, path = "/employee")
+@CrossOrigin
 public class EmployeeControllerImpl implements EmployeeController {
 
     @Autowired
