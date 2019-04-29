@@ -33,11 +33,20 @@
         <p *ngIf="this.emplyees.length !== 0">{{emplyeeHeader}}</p>
 
         <a *ngFor="let employee of emplyees" class="list-group-item list-group-item-action">
-          <i class="fa fa-user"></i>&nbsp;<br/>
+
+          <b class="fa fa-user"></b><br/> <b class="changeColor"> ID :</b>&nbsp;<br/>
           <input [(ngModel)]="employee.id" (change)="updateEmployee(employee)" type="text" class="input-label" style="width: 80%"/>
+
+          <br/> <b class="changeColor">First name :</b>&nbsp;<br/>
           <input [(ngModel)]="employee.firstName" (change)="updateEmployee(employee)" type="text" class="input-label" style="width: 80%"/>
+
+          <br/> <b class="changeColor">Last name :</b>&nbsp;<br/>
           <input [(ngModel)]="employee.lastName" (change)="updateEmployee(employee)" type="text" class="input-label" style="width: 80%"/>
+
+          <br/> <b class="changeColor">Birthday :</b>&nbsp;<br/>
           <input [(ngModel)]="employee.birthDay" (change)="updateEmployee(employee)" type="Date" class="input-label" style="width: 80%"/>
+
+          <br/> <b class="changeColor">Address :</b>&nbsp;<br/>
           <input [(ngModel)]="employee.address" (change)="updateEmployee(employee)" type="text" class="input-label" style="width: 80%"/>
 
           <a (click)="deleteEmployee(employee)" class="pull-right text-danger">
