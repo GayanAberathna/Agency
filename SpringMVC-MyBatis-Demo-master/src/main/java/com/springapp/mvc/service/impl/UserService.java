@@ -8,9 +8,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * Created by Tian Wang on 2015/3/30.
- */
 @Service("userService")
 public class UserService implements IUserService {
     @Autowired
