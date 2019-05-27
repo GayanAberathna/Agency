@@ -14,7 +14,7 @@
         FROM USER
         WHERE USER_ID = #{userId}
     </select>
-    <!-- Instead of referencing Fully Qualified Class Names we can register Aliases in mybatis-config.xml and use Alias names. -->
+   
     <resultMap type='User' id='UserResult'>
         <id property='userId' column='user_id'/>
         <result property='emailId' column='email_id'/>
