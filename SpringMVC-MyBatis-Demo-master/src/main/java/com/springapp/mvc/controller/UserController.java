@@ -11,9 +11,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * Created by Tian Wang on 2015/3/24.
- */
 
 @Controller
 @RequestMapping("/user")
@@ -31,10 +28,7 @@ public class UserController {
         return "redirect:/";
     }
 
-    /**
-     *
-     * @return users in json
-     */
+  
     @ResponseBody
     @RequestMapping(value = "/json",
             method = RequestMethod.GET,
