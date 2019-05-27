@@ -9,9 +9,6 @@ import org.apache.ibatis.annotations.Update;
 
 import java.util.List;
 
-/**
- * Created by Tian Wang on 2015/3/24.
- */
 
 public interface UserMapper {
     @Insert("insert into user(name, password) values(#{name}, #{password})")
