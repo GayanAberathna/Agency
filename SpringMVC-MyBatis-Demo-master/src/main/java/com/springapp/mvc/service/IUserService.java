@@ -4,9 +4,6 @@ import com.springapp.mvc.model.User;
 
 import java.util.List;
 
-/**
- * Created by Tian Wang on 2015/3/30.
- */
 public interface IUserService {
     public List<User> getAllUsers();
 
