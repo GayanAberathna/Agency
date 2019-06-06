@@ -4,6 +4,14 @@
 
 <mapper namespace='com.sample.mybatisdemo.mappers.UserMapper'>
 
+    <resultMap type='User' id='UserResult'>
+        <id property='userId' column='user_id'/>
+        <result property='emailId' column='email_id'/>
+        <result property='password' column='password'/>
+        <result property='firstName' column='first_name'/>
+        <result property='lastName' column='last_name'/>
+    </resultMap>
+
     <select id='getUserById' parameterType='int' resultType='com.sample.mybatisdemo.domain.User'>
         SELECT
             user_id as userId,
@@ -14,14 +22,6 @@
         FROM USER
         WHERE USER_ID = #{userId}
     </select>
-   
-    <resultMap type='User' id='UserResult'>
-        <id property='userId' column='user_id'/>
-        <result property='emailId' column='email_id'/>
-        <result property='password' column='password'/>
-        <result property='firstName' column='first_name'/>
-        <result property='lastName' column='last_name'/>
-    </resultMap>
 
     <select id='getAllUsers' resultMap='UserResult'>
         SELECT * FROM USER
