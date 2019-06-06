@@ -1,4 +1,4 @@
-class MyClass{
+class MyClass{ 
 	public static void main(String[] args){
 		String wordSet = "1abccba1myymasdffdsa";
 		char[] array = wordSet.toCharArray();
