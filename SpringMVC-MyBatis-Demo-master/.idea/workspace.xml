@@ -7,24 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61524161-2087-410d-b86c-1b9f0cb80777" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/sample/mybatisdemo/domain/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/com/sivalabs/mybatisdemo/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/com/sample/mybatisdemo/UserServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/com/sivalabs/mybatisdemo/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/com/sample/mybatisdemo/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/com/sivalabs/mybatisdemo/domain/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/com/sivalabs/mybatisdemo/mappers/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/com/sample/mybatisdemo/mappers/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/com/sivalabs/mybatisdemo/mappers/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/com/sample/mybatisdemo/mappers/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/com/sivalabs/mybatisdemo/service/MyBatisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/com/sample/mybatisdemo/service/MyBatisUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/com/sivalabs/mybatisdemo/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/com/sample/mybatisdemo/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/sivalabs/mybatisdemo/UserServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/sivalabs/mybatisdemo/domain/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/sivalabs/mybatisdemo/mappers/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/sivalabs/mybatisdemo/service/MyBatisUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/sivalabs/mybatisdemo/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/target/classes/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/target/classes/mybatis-config.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,7 +37,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/mapper/UserMapper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -66,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -98,7 +82,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/service/impl/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -166,8 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,13 +219,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -606,6 +590,8 @@
       <workItem from="1558806168089" duration="8992000" />
       <workItem from="1559064095328" duration="1151000" />
       <workItem from="1559066392220" duration="2352000" />
+      <workItem from="1559491823843" duration="224000" />
+      <workItem from="1559758196194" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="f">
       <created>1559064642071</created>
@@ -635,13 +621,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16990000" />
+    <option name="totallyTimeSpent" value="17221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -707,41 +692,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/conf/mybatis-config.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/mapper/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="340">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -759,10 +720,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/conf/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/service/impl/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
