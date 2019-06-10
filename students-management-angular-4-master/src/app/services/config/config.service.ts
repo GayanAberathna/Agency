@@ -1,5 +1,5 @@
 /**
- * Created By : Sangwin Gawande (http://sangw.in)
+ *
  */
 
 import { Injectable } from '@angular/core';
@@ -68,5 +68,5 @@ function slideToLeft() {
 
 
 /**
- * Created By : Sangwin Gawande (http://sangw.in)
+ *
  */

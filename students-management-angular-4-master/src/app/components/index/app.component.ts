@@ -1,7 +1,3 @@
-/**
- * Created By : Sangwin Gawande (http://sangw.in)
- */
-
 import { Component } from '@angular/core';
 
 @Component({
@@ -12,7 +8,7 @@ import { Component } from '@angular/core';
 
 
 export class AppComponent {
-	title = 'Student Management By Sangwin Gawande';
+	title = 'Student Management';
 
 	// Add few students for initial listing
 	studentsList = [
@@ -63,7 +59,3 @@ export class AppComponent {
 		localStorage.setItem('students', JSON.stringify(this.studentsList));
 	}
 }
-
-/**
- * Created By : Sangwin Gawande (http://sangw.in)
- */

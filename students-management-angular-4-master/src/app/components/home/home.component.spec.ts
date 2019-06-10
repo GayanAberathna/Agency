@@ -1,7 +1,3 @@
-/**
- * Created By : Sangwin Gawande (http://sangw.in)
- */
-
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { HomeComponent } from './home.component';
@@ -27,7 +23,3 @@ describe('HomeComponent', () => {
     expect(component).toBeTruthy();
   });
 });
-
-/**
- * Created By : Sangwin Gawande (http://sangw.in)
- */
