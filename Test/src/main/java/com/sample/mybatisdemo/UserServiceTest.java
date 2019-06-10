@@ -49,6 +49,7 @@ public class UserServiceTest
     public void testInsertUser()
     {
         User user = new User();
+        user.setUserId(3);
         user.setEmailId("test_email_" +System.currentTimeMillis()+ "@gmail.com");
         user.setPassword("secret");
         user.setFirstName("TestFirstName");
@@ -69,11 +70,11 @@ public class UserServiceTest
     public void testUpdateUser()
     {
         long timestamp = System.currentTimeMillis();
-        User user = userService.getUserById(2);
+        User user = userService.getUserById(3);
         user.setFirstName("TestFirstName" +timestamp);
         user.setLastName("TestLastName" +timestamp);
         userService.updateUser(user);
-        User updatedUser = userService.getUserById(2);
+        User updatedUser = userService.getUserById(3);
         Assert.assertEquals(user.getFirstName(), updatedUser.getFirstName());
         Assert.assertEquals(user.getLastName(), updatedUser.getLastName());
     }
@@ -81,9 +82,9 @@ public class UserServiceTest
     @Test
     public void testDeleteUser()
     {
-        User user = userService.getUserById(4);
+        User user = userService.getUserById(3);
         userService.deleteUser(user.getUserId());
-        User deletedUser = userService.getUserById(4);
+        User deletedUser = userService.getUserById(3);
         Assert.assertNull(deletedUser);
 
     }

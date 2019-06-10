@@ -1,5 +1,5 @@
 /**
- * Created By : Sangwin Gawande (http://sangw.in)
+ *
  */
 
  import { Injectable } from '@angular/core';
@@ -116,5 +116,5 @@
 
  }
 /**
- * Created By : Sangwin Gawande (http://sangw.in)
+ *
  */

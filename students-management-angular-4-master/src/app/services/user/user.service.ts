@@ -1,5 +1,5 @@
 /**
- * Created By : Sangwin Gawande (http://sangw.in)
+ *
  */
 
 import { Injectable } from '@angular/core';
@@ -11,7 +11,7 @@ export class UserService {
 	constructor() { }
 
 	doLogin(data){
-		if (data.email == "admin@yopmail.com" && data.password == "admin123") {
+		if (data.email == "admin@virtusa.com" && data.password == "admin123") {
 			return {
 				code : 200,
 				message : "Login Successful",
@@ -32,5 +32,5 @@ export class UserService {
 	}
 
 /**
- * Created By : Sangwin Gawande (http://sangw.in)
+ *
  */
