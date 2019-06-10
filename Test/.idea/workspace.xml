@@ -1,87 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="19a9553f-a667-4055-83e1-da8017b5845d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MyTestApp/.idea/MyTestApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyTestApp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sms-front-full-master/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sms-front-full-master/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sms-front-full-master/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sms-front-full-master/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sms-front-full-master/.idea/sms-front-full-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sms-front-full-master/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sms-front-full-master/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sms-front-full-master/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sms-front-full-master/src/app/components/liststudents/liststudents.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sms-front-full-master/src/app/components/studentform/studentform.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../students-management-angular-4-master/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="876b40f5-9399-4bf3-b6db-868678ed45e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/mydispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todolist/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Gayan_Aberathna.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/UserServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/mappers/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/mappers/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/sample/mybatisdemo/UserServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/mybatisdemo/UserServiceTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/sample/mybatisdemo/mappers/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/mybatisdemo/mappers/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/home/home.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/home/home.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/home/home.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/home/home.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/home/home.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/home/home.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/index/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/index/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/index/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/index/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/index/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/index/app.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/index/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/index/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/login/login.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/login/login.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/login/login.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/login/login.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/login/login.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/login/login.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/login/login.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/add/student-add.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/add/student-add.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/add/student-add.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/add/student-add.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/add/student-add.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/add/student-add.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/add/student-add.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/add/student-add.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/details/student-details.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/details/student-details.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/details/student-details.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/details/student-details.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/details/student-details.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/details/student-details.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/details/student-details.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/details/student-details.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/list/student-list.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/list/student-list.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/list/student-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/list/student-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/list/student-list.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/list/student-list.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/list/student-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/components/student/list/student-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/directives/highlight-student.directive.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/directives/highlight-student.directive.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/directives/highlight-student.directive.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/directives/highlight-student.directive.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/pipes/filter.pipe.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/pipes/filter.pipe.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/pipes/phone.pipe.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/pipes/phone.pipe.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/pipes/phone.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/pipes/phone.pipe.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/auth/auth.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/auth/auth.service.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/auth/auth.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/config/config.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/config/config.service.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/config/config.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/config/config.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/student/student.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/student/student.service.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/student/student.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/student/student.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/user/user.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/user/user.service.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/user/user.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/app/services/user/user.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/extras/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/extras/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/src/main.ts" afterDir="false" />
-=======
-    <list default="true" id="a550f38b-96b9-4047-9c4f-bbb1de9b1a40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/mybatisdemo/UserServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/mybatisdemo/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/mybatisdemo/domain/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/mybatisdemo/mappers/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/mybatisdemo/mappers/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/mybatisdemo/service/MyBatisUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/mybatisdemo/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../students-management-angular-4-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management-angular-4-master/.idea/workspace.xml" afterDir="false" />
-=======
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
->>>>>>> 76f86bf74127b0890b711ca3dfa60692af7819a2
+      <change beforePath="$PROJECT_DIR$/../todolist/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/src/main/webapp/WEB-INF/view/add_item.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/src/main/webapp/WEB-INF/view/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/src/main/webapp/WEB-INF/view/items_list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/src/main/webapp/WEB-INF/view/view_item.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/src/main/webapp/WEB-INF/view/welcome.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/conf/tomcat-users.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/conf/tomcat-users.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/META-INF/maven/academy.learnprogramming/todo-list/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/META-INF/maven/academy.learnprogramming/todo-list/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/META-INF/maven/academy.learnprogramming/todo-list/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/META-INF/maven/academy.learnprogramming/todo-list/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/config/WebAppInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/config/WebAppInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/controller/DemoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/controller/TodoItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/controller/TodoItemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/model/TodoData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/model/TodoData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/model/TodoItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/model/TodoItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/service/DemoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/service/DemoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/service/DemoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/service/DemoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/service/ToDoItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/service/ToDoItemServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/service/TodoItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/service/TodoItemService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/util/AttributeNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/util/AttributeNames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/util/Mappings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/util/Mappings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/util/ViewNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/academy/learnprogramming/util/ViewNames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/todo-list/org/apache/jsp/WEB_002dINF/view/items_005flist_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/todo-list/org/apache/jsp/WEB_002dINF/view/items_005flist_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/todo-list/org/apache/jsp/WEB_002dINF/view/items_005flist_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/todo-list/org/apache/jsp/WEB_002dINF/view/items_005flist_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/todo-list/org/apache/jsp/WEB_002dINF/view/view_005fitem_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/todo-list/org/apache/jsp/WEB_002dINF/view/view_005fitem_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/todo-list/org/apache/jsp/WEB_002dINF/view/view_005fitem_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/todo-list/org/apache/jsp/WEB_002dINF/view/view_005fitem_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/config/WebAppInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/config/WebAppInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/controller/DemoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/controller/TodoItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/controller/TodoItemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/model/TodoData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/model/TodoData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/model/TodoItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/model/TodoItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/service/DemoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/service/DemoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/service/DemoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/service/DemoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/service/ToDoItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/service/ToDoItemServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/service/TodoItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/service/TodoItemService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/util/AttributeNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/util/AttributeNames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/util/Mappings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/util/Mappings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/util/ViewNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/classes/academy/learnprogramming/util/ViewNames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/config/WebAppInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/config/WebAppInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/controller/DemoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/controller/TodoItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/controller/TodoItemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/model/TodoData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/model/TodoData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/model/TodoItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/model/TodoItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/service/DemoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/service/DemoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/service/DemoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/service/DemoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/service/ToDoItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/service/ToDoItemServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/service/TodoItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/service/TodoItemService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/util/AttributeNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/util/AttributeNames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/util/Mappings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/util/Mappings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/util/ViewNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/academy/learnprogramming/util/ViewNames.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,62 +84,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/mappers/UserMapper.xml">
+        <entry file="file://$PROJECT_DIR$/src/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+            <state relative-caret-position="221">
+              <caret line="13" column="34" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/controller/UserController.java">
+        <entry file="file://$PROJECT_DIR$/src/webapp/WEB-INF/mydispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-=======
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/UserServiceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/service/MyBatisUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="323">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-=======
-            <state relative-caret-position="68">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="136">
-              <caret line="10" column="27" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="27" />
-=======
-            <state relative-caret-position="85">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
+            <state relative-caret-position="204">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -152,18 +110,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="119">
-              <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-=======
-<<<<<<< HEAD
-            <state relative-caret-position="1309">
-              <caret line="90" column="1" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
-=======
-            <state relative-caret-position="544">
-              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
->>>>>>> 76f86bf74127b0890b711ca3dfa60692af7819a2
+            <state relative-caret-position="-340">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/UserServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-411">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -171,79 +137,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="-476">
-              <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-=======
-            <state relative-caret-position="357">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
+            <state relative-caret-position="102">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/mappers/UserMapper.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/mappers/UserMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="238">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-=======
-<<<<<<< HEAD
-            <state relative-caret-position="255">
-              <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
-=======
-            <state relative-caret-position="119">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
->>>>>>> 76f86bf74127b0890b711ca3dfa60692af7819a2
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="45" column="83" selection-start-line="45" selection-start-column="83" selection-end-line="45" selection-end-column="83" />
-=======
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/domain/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-=======
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
->>>>>>> 76f86bf74127b0890b711ca3dfa60692af7819a2
+            <state relative-caret-position="51">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/service/MyBatisUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="14" selection-start-line="21" selection-start-column="8" selection-end-line="22" selection-end-column="14" />
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -251,51 +166,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/mappers/UserMapper.xml" />
-      </list>
-    </option>
-  </component>
-=======
-<<<<<<< HEAD
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sivalabs/mybatisdemo/controller/sa.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sivalabs/mybatisdemo/domain/AllArgsConstructor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sivalabs/mybatisdemo/domain/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sivalabs/mybatisdemo/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sivalabs/mybatisdemo/service/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/service/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
-        <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/mappers/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/UserServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/src/webapp/WEB-INF/mydispatcher-servlet.xml" />
       </list>
     </option>
   </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-=======
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
->>>>>>> 76f86bf74127b0890b711ca3dfa60692af7819a2
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -308,26 +187,34 @@
           <item name="mybatis-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatis-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatis-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="cargo" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <showMembers ProjectPane="true" />
-      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -366,85 +253,37 @@
               <item name="Test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatisdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatisdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatisdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="mappers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatisdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="C:/apache-tomcat-8.5.41" />
-    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
-=======
-<<<<<<< HEAD
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Agency\Test\src\main\resources" />
-      <recent name="C:\Agency\Test\src\main\java" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MyWorks\Agency\Test\src" />
+      <recent name="C:\MyWorks\Agency\Test\src\main" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.sivalabs.mybatisdemo.domain" />
-    </key>
-=======
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../students-management-angular-4-master" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
->>>>>>> 76f86bf74127b0890b711ca3dfa60692af7819a2
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -458,387 +297,65 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.41">
-    <configuration name="UserServiceTest.testDeleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sample.mybatisdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sample.mybatisdemo" />
-      <option name="MAIN_CLASS_NAME" value="com.sample.mybatisdemo.UserServiceTest" />
-      <option name="METHOD_NAME" value="testDeleteUser" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserServiceTest.testGetAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sample.mybatisdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sample.mybatisdemo" />
-      <option name="MAIN_CLASS_NAME" value="com.sample.mybatisdemo.UserServiceTest" />
-      <option name="METHOD_NAME" value="testGetAllUsers" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserServiceTest.testGetUserById (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sample.mybatisdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sample.mybatisdemo" />
-      <option name="MAIN_CLASS_NAME" value="com.sample.mybatisdemo.UserServiceTest" />
-      <option name="METHOD_NAME" value="testGetUserById" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserServiceTest.testInsertUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sample.mybatisdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sample.mybatisdemo" />
-      <option name="MAIN_CLASS_NAME" value="com.sample.mybatisdemo.UserServiceTest" />
-      <option name="METHOD_NAME" value="testInsertUser" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserServiceTest.testUpdateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sample.mybatisdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sample.mybatisdemo" />
-      <option name="MAIN_CLASS_NAME" value="com.sample.mybatisdemo.UserServiceTest" />
-      <option name="METHOD_NAME" value="testUpdateUser" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tomcat 8.5.41" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.41" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment>
-        <file path="$PROJECT_DIR$">
-          <settings>
-            <option name="CONTEXT_PATH" value="/Test" />
-          </settings>
-        </file>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_mybatis-demo_3" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="55912" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="JUnit.UserServiceTest.testGetAllUsers" />
-      <item itemvalue="JUnit.UserServiceTest.testDeleteUser" />
-      <item itemvalue="JUnit.UserServiceTest.testGetUserById (1)" />
-      <item itemvalue="JUnit.UserServiceTest.testInsertUser" />
-      <item itemvalue="JUnit.UserServiceTest.testUpdateUser" />
-      <item itemvalue="Tomcat Server.Tomcat 8.5.41" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.UserServiceTest.testDeleteUser" />
-        <item itemvalue="JUnit.UserServiceTest.testUpdateUser" />
-        <item itemvalue="JUnit.UserServiceTest.testInsertUser" />
-        <item itemvalue="JUnit.UserServiceTest.testGetAllUsers" />
-        <item itemvalue="JUnit.UserServiceTest.testGetUserById (1)" />
-      </list>
-    </recent_temporary>
-  </component>
-=======
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a550f38b-96b9-4047-9c4f-bbb1de9b1a40" name="Default Changelist" comment="" />
-      <created>1559796080177</created>
+      <changelist id="876b40f5-9399-4bf3-b6db-868678ed45e4" name="Default Changelist" comment="" />
+      <created>1560149127761</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-<<<<<<< HEAD
-      <updated>1559063797976</updated>
-      <workItem from="1559063799262" duration="2529000" />
-      <workItem from="1559066378477" duration="3554000" />
-      <workItem from="1559491818399" duration="2646000" />
-      <workItem from="1559753883922" duration="4000" />
-      <workItem from="1559758204421" duration="6984000" />
-      <workItem from="1559840202670" duration="3817000" />
-      <workItem from="1560097056420" duration="929000" />
+      <updated>1560149127761</updated>
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="UserServiceTest_testGetAllUsers - 2019.06.06 at 22h 40m 07s.xml">
-      <configuration name="UserServiceTest.testGetAllUsers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceTest_testGetAllUsers - 2019.06.06 at 22h 40m 17s.xml">
-      <configuration name="UserServiceTest.testGetAllUsers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceTest_testGetAllUsers - 2019.06.06 at 22h 42m 19s.xml">
-      <configuration name="UserServiceTest.testGetAllUsers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceTest_testInsertUser - 2019.06.06 at 22h 42m 40s.xml">
-      <configuration name="UserServiceTest.testInsertUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceTest_testInsertUser - 2019.06.06 at 22h 44m 44s.xml">
-      <configuration name="UserServiceTest.testInsertUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceTest_testInsertUser - 2019.06.06 at 22h 45m 02s.xml">
-      <configuration name="UserServiceTest.testInsertUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceTest_testInsertUser - 2019.06.06 at 22h 47m 15s.xml">
-      <configuration name="UserServiceTest.testInsertUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceTest_testUpdateUser - 2019.06.06 at 22h 47m 57s.xml">
-      <configuration name="UserServiceTest.testUpdateUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceTest_testUpdateUser - 2019.06.06 at 22h 48m 46s.xml">
-      <configuration name="UserServiceTest.testUpdateUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceTest_testDeleteUser - 2019.06.06 at 22h 49m 24s.xml">
-      <configuration name="UserServiceTest.testDeleteUser" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
-=======
-      <updated>1559796080177</updated>
-    </task>
-    <task id="LOCAL-00001" summary="changes">
-      <created>1559810228330</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1559810228331</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
-    <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <layout>
-<<<<<<< HEAD
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19742814" />
-=======
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1913767" />
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
->>>>>>> 76f86bf74127b0890b711ca3dfa60692af7819a2
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-<<<<<<< HEAD
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16693944" />
-=======
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23895253" />
-=======
-      <window_info anchor="bottom" id="Run" order="2" weight="0.049099836" />
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
->>>>>>> 76f86bf74127b0890b711ca3dfa60692af7819a2
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28150573" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
-=======
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3289689" />
-      <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="bottom" id="Jelastic" order="13" />
-      <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.16565809" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" sideWeight="0.497545" visible="true" weight="0.0688351" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.502455" side_tool="true" visible="true" weight="0.0688351" />
     </layout>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/mybatis_demo$Tomcat_8_5_41.ic" NAME="Tomcat 8.5.41 Coverage Results" MODIFIED="1559758507156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/mybatis_demo$UserServiceTest_testInsertUser.ic" NAME="UserServiceTest.testInsertUser Coverage Results" MODIFIED="1559841414409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.sample.mybatisdemo.*</FILTER>
-    </SUITE>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sivalabs/mybatisdemo/controller/sa.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE-sources.jar!/org/springframework/ui/ModelMap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+        <state relative-caret-position="102">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sivalabs/mybatisdemo/domain/AllArgsConstructor.java" />
-    <entry file="file://$PROJECT_DIR$/target/classes/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.1.1/mybatis-3.1.1.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.class">
-=======
-      <window_info anchor="bottom" id="Terminal" order="7" />
->>>>>>> 76f86bf74127b0890b711ca3dfa60692af7819a2
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.13918306" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/UserServiceTest.java">
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/mappers/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.1.1/mybatis-3.1.1-sources.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/mappers/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/UserServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="90" column="1" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/service/MyBatisUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -846,125 +363,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/mappers/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/service/MyBatisUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-476">
-          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-=======
-        <state relative-caret-position="357">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="14" selection-start-line="21" selection-start-column="8" selection-end-line="22" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="119">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-=======
+        <state relative-caret-position="-340">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/UserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-411">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
->>>>>>> 76f86bf74127b0890b711ca3dfa60692af7819a2
+          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/mappers/UserMapper.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/config/WebAppInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="238">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-=======
-<<<<<<< HEAD
-        <state relative-caret-position="170">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        <state relative-caret-position="-17">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="221">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/domain/User.java">
+    <entry file="file://$PROJECT_DIR$/src/webapp/WEB-INF/mydispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-=======
-        <state relative-caret-position="340">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
->>>>>>> 76f86bf74127b0890b711ca3dfa60692af7819a2
+        <state relative-caret-position="204">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/mybatisdemo/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="612">
-          <caret line="45" column="83" selection-start-line="45" selection-start-column="83" selection-end-line="45" selection-end-column="83" />
-=======
-        <state relative-caret-position="544">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
->>>>>>> f4ee83e2c6964e3cf1ccd2516b88ab97636e708e
->>>>>>> 76f86bf74127b0890b711ca3dfa60692af7819a2
+        <state relative-caret-position="255">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
